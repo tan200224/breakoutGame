@@ -1,2 +1,1 @@
-# breakoutGame
-Breakout-Galaga Arcade
+# breakout_starter
